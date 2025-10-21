@@ -1,4 +1,7 @@
+https://my-json-server.typicode.com/Lailasp/api-fake-laila
+
 Programação Móvel - API Fake *(instruções)*
+
 Projeto de apoio às aulas da disciplina de Programação Móvel. Este repositório mantém uma API fake criada a partir do serviço my-json-server para que possamos testar as requisições HTTP realizadas pelos aplicativos desenvolvidos em sala.
 
 Baixando a versão mais atual do projeto
@@ -18,3 +21,4 @@ A API pública está disponível em: https://my-json-server.typicode.com/tarsism
 Os principais recursos são:
 GET /properties — lista os imóveis cadastrados
 GET /users — retorna os usuários de teste (apenas para fins de autenticação mockada)
+
